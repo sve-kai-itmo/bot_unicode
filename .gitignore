@@ -2,5 +2,4 @@ __pycache__
 test.py
 unicode_symbols_length.py
 param.py
-Procfile
-requirements.txt
+
